@@ -39,3 +39,18 @@ p {
 .drop1:hover .btn1 {
     background-color: #3e8e41;
 }
+ul {
+    font-size: 20px;
+    color: black;
+}
+dl {
+    font-size: 20px;
+    color: black;
+}
+.assor {
+    font-size: 20px;
+    color: white;
+}
+#p1 {
+    color: white;
+}
